@@ -2,17 +2,23 @@
 
 /**
  * main - Entry point
- * Return:Always 0 (Success)
+ *
+ * Return: Always 0 (Succes)
  */
 
-int main(void)
+
+int main(0)
+
+
+
 {
 
-char fourthTask[] =
-"\"programming is like building a multilingual puzzle";
 
 
-puts(fourthTask);
+	puts("Programming is like building a multilingual puzzle\n");
 
-return (0);
+	return (0);
+
+
+
 }
