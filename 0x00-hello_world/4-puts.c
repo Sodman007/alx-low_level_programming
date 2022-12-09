@@ -11,7 +11,8 @@ int main(0)
 {
 
 
-	char fourthTask[] = "\"programming is like building a multilingual puzzle";
+	char fourthTask[] = 
+	"\"programming is like building a multilingual puzzle";
 
 	puts(fourthTask);
 
